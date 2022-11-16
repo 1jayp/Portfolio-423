@@ -3,18 +3,19 @@ Portfolio Website for IT-423 class
 
 <h1>Hello! I'm Jared! <br/><a href="https://www.linkedin.com/in/jared-perry-828391205/">Data Science Student</a>
     
-![IMG_6666](https://user-images.githubusercontent.com/78187692/202316634-2c6da886-d6a5-4e40-b8ca-2d6d0cecd38f.jpg)
+
+![IMG_6666](https://user-images.githubusercontent.com/78187692/202317927-0e3892ec-061b-462f-b88e-aa940d0c80b2.jpg)
 
 
 <h2>👨‍💻 Coding Examples:</h2>
 
-- <b>Portfolio Website - 2020 (Web Development)</b>
+<b>Portfolio Website - 2020 (Web Development)</b>
     - Created a website using Github a couple years ago to practice my web development skills
 
 <img width="1431" alt="Screen Shot 2022-11-16 at 2 39 23 PM" src="https://user-images.githubusercontent.com/78187692/202315314-d6772c07-aadb-4799-b6d7-80fe01478a0f.png">
 
   
-- <b>R Project (2022)</b>
+<h2>R Project (2022)</h2>
   - Did a Regression project in my Data Analytics class last semester (Spring 2022) predicting life expectancy in different regions. Used R Studio & Github
 
 <img width="651" alt="R example 2" src="https://user-images.githubusercontent.com/78187692/202315740-56d950a7-286b-4161-b672-37752aec6d00.png">
@@ -22,7 +23,7 @@ Portfolio Website for IT-423 class
 
   
   
-- <b>Python</b>
+<h2>Python Code</h2>
   - Coding example from 'Python Scripting' class at Marymount (IT 129)
   
 <img width="1388" alt="Screen Shot 2022-11-16 at 3 39 23 PM" src="https://user-images.githubusercontent.com/78187692/202316106-71c88d92-a1c4-4713-b01f-39a79f8b3f99.png">
