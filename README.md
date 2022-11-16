@@ -5,23 +5,23 @@ Portfolio Website for IT-423 class
 
 <b><img src="https://github.com/1jayp/Portfolio-423/blob/78c5b2fd4b2c5079b73780d1c297fd95a125f40d/IMG_6666.jpg" width="200" height="300"></b>
 
-<h2>👨‍💻 Coding Projects:</h2>
+<h2>👨‍💻 Coding Examples:</h2>
 
 - <b>Portfolio Website - 2020 (Web Development)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+    - Created a website using Github a couple years ago to practice my web development skills
+
+<b><img src="https://github.com/1jayp/Portfolio-423/blob/21807ceee11d3a6ca9b8f0efce5dcd78190aca55/Screen%20Shot%202022-11-16%20at%202.39.23%20PM.png" width="500" height="300"></b>
+
+  
+- <b>R Project (2022)</b>
+  - Did a Regression project in my Data Analytics class last semester (Spring 2022) predicting life expectancy in different regions. Used R Studio & Github
+  
+<b><img src="https://github.com/1jayp/Portfolio-423/blob/95fab358ce6ea5aa81812348e1d6656302071b69/R%20example%202.png" width="400" height="200"></b> <img src="https://github.com/1jayp/Portfolio-423/blob/95fab358ce6ea5aa81812348e1d6656302071b69/R%20example.png" width="400" height="200">
+  
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - Coding example from 'Python Scripting' class at Marymount (IT 129)
+<b><img src="https://github.com/1jayp/Portfolio-423/blob/0231616d5a92cd6a432acfe586e5e5003883552f/Screen%20Shot%202022-11-16%20at%203.39.23%20PM.png" width="700" height="400">
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
