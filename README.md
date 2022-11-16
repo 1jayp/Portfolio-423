@@ -23,7 +23,7 @@ Portfolio Website for IT-423 class
 <b><img src="https://github.com/1jayp/Portfolio-423/blob/0231616d5a92cd6a432acfe586e5e5003883552f/Screen%20Shot%202022-11-16%20at%203.39.23%20PM.png" width="700" height="400">
 
 
-<h3>📺 Technical Skills</h3>
+<h2>📺 Technical Skills</h2>
 
 - <b>Coding Languages:</b>
     - Python, R, SQL, HTML, CSS
@@ -33,17 +33,37 @@ Portfolio Website for IT-423 class
     - R Studio, Jupyter Notebook, MySQL, ServiceNow, Github, Microsoft Office, Microsoft Azure, Neo4j, Microsoft Power Automate, PyCharm, SharePoint
 
     
-<h3>Soft Skills</h3>
+<h2>Soft Skills</h2>
 
 - <b>Self-motivated, Problem-solving, Communication, Active listening, Team Player, Time Management</b>
     
     
-<h3>Relevant Coursework</h3>
+<h2>Relevant Coursework</h2>
 
 - <b>Python Scripting, Adv. Python Applications, Cybersecurity Principles, Database Technology, Data Analytics, Current Topics in Data Science, Data Science Applications, Managing Big Data, Software Engineering, Software Testing, Documentation, and Quality Assurance</b>
+   
+
+<h2>Professional Experience</h2>
+
+- <b>TekSynap - IT Intern (Reston, VA)</b>
+    - Provided support to end users & employees with any technical difficulties they had
+    - Supported maintenance of computer systems including troubleshooting software & hardware problems
+    - Provided computer network and software security by analyzing and identifying potential vulnerabilities
+    
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Awards/Achievements/Certifications:</h2>
+    
+    - What Is Data Science? (Coursera)
+    - Python Ready (Marymount)
+    - Data Science Ready Badge is In-progress (Marymount)
+    - DoD CUI Training Badge (DCSA)
+    - ServiceNow Platform Overview & ServiceNow Platform User Interface Overview (ServiceNow)
+    - CompTIA Securty+: Security Concepts in an Enterprise Environment (SkillSoft)
+    - Adult & Child First Aid/CPR/AED
+    
+    
+<h2>Connect With Me!</h2>
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
