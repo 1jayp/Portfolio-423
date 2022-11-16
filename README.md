@@ -2,8 +2,9 @@
 Portfolio Website for IT-423 class
 
 <h1>Hello! I'm Jared! <br/><a href="https://www.linkedin.com/in/jared-perry-828391205/">Data Science Student</a>
+    
+![IMG_6666](https://user-images.githubusercontent.com/78187692/202316634-2c6da886-d6a5-4e40-b8ca-2d6d0cecd38f.jpg)
 
-<b><img src="https://github.com/1jayp/Portfolio-423/blob/78c5b2fd4b2c5079b73780d1c297fd95a125f40d/IMG_6666.jpg" width="200" height="300"></b>
 
 <h2>👨‍💻 Coding Examples:</h2>
 
