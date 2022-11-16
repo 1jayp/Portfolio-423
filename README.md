@@ -1,11 +1,13 @@
 # Portfolio
 Portfolio Website for IT-423 class
 
-<h1>Hi, I'm Jared! <br/><a href="https://www.linkedin.com/in/jared-perry-828391205/">Data Science Student</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hello! I'm Jared! <br/><a href="https://www.linkedin.com/in/jared-perry-828391205/">Data Science Student</a>
 
-<h2>👨‍💻 Data Science Projects:</h2>
+<b><img src="https://github.com/1jayp/Portfolio-423/blob/78c5b2fd4b2c5079b73780d1c297fd95a125f40d/IMG_6666.jpg" width="200" height="300"></b>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+<h2>👨‍💻 Coding Projects:</h2>
+
+- <b>Portfolio Website - 2020 (Web Development)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
