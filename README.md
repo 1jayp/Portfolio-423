@@ -23,13 +23,25 @@ Portfolio Website for IT-423 class
 <b><img src="https://github.com/1jayp/Portfolio-423/blob/0231616d5a92cd6a432acfe586e5e5003883552f/Screen%20Shot%202022-11-16%20at%203.39.23%20PM.png" width="700" height="400">
 
 
-<h2>📺 Popular YouTube Videos</h2>
+<h3>📺 Technical Skills</h3>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- <b>Coding Languages:</b>
+    - Python, R, SQL, HTML, CSS
+    
+
+- <b>Softwares:</b>
+    - R Studio, Jupyter Notebook, MySQL, ServiceNow, Github, Microsoft Office, Microsoft Azure, Neo4j, Microsoft Power Automate, PyCharm, SharePoint
+
+    
+<h3>Soft Skills</h3>
+
+- <b>Self-motivated, Problem-solving, Communication, Active listening, Team Player, Time Management</b>
+    
+    
+<h3>Relevant Coursework</h3>
+
+- <b>Python Scripting, Adv. Python Applications, Cybersecurity Principles, Database Technology, Data Analytics, Current Topics in Data Science, Data Science Applications, Managing Big Data, Software Engineering, Software Testing, Documentation, and Quality Assurance</b>
+
 
 <h2> 🤳 Connect with me:</h2>
 
