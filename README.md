@@ -59,6 +59,7 @@ Portfolio Website for IT-423 class
 
 <h2> Awards/Achievements/Certifications:</h2>
     
+    - Dean's List: 2020, 2021, Spring 2022
     - What Is Data Science? (Coursera)
     - Python Ready Digital Badge (Marymount)
     - Data Science Ready Badge is In-progress (Marymount)
