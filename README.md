@@ -49,7 +49,7 @@ Portfolio Website for IT-423 class
 - <b>Python Scripting, Adv. Python Applications, Cybersecurity Principles, Database Technology, Data Analytics, Current Topics in Data Science, Data Science Applications, Managing Big Data, Software Engineering, Software Testing, Documentation, and Quality Assurance</b>
    
 
-<h2>Professional Experience</h2>
+<h2>Professional IT Experience</h2>
 
 - <b>TekSynap - IT Intern (Reston, VA)</b>
     - Provided support to end users & employees with any technical difficulties they had
@@ -67,6 +67,10 @@ Portfolio Website for IT-423 class
     - ServiceNow Platform Overview & ServiceNow Platform User Interface Overview (ServiceNow)
     - CompTIA Securty+: Security Concepts in an Enterprise Environment (SkillSoft)
     - Adult & Child First Aid/CPR/AED
+    
+<h2>Hobbies & Free-time Activities</h2>
+
+- <b>Gaming, Chess, Basketball, Listening to and creating music, Volunteering (Red Cross), Watching podcasts, Lifting/Working out, Baking cookies </b>
     
     
     
