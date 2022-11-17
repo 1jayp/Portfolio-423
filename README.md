@@ -1,4 +1,4 @@
-# Portfolio
+# Data Science Portfolio
 Portfolio Website for IT-423 class
 
 <h1>Hello! I'm Jared! <br/><a href="https://www.linkedin.com/in/jared-perry-828391205/">Data Science Student</a></h1>
