@@ -57,11 +57,10 @@ Portfolio Website for IT-423 class
     - Provided computer network and software security by analyzing and identifying potential vulnerabilities
     
 
-
 <h2> Awards/Achievements/Certifications:</h2>
     
     - What Is Data Science? (Coursera)
-    - Python Ready (Marymount)
+    - Python Ready Digital Badge (Marymount)
     - Data Science Ready Badge is In-progress (Marymount)
     - DoD CUI Training Badge (DCSA)
     - ServiceNow Platform Overview & ServiceNow Platform User Interface Overview (ServiceNow)
